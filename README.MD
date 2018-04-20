@@ -20,3 +20,5 @@ docker run -p 8012:80 obvu/proxy-rkn
 `http://s331.your-company.com:8012/`
 
 По-умолчанию, демон слушает 80 порт.
+
+Любые пожелания можете писать в issues
