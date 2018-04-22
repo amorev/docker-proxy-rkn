@@ -3,7 +3,7 @@ DOCKER-READY Telegram proxy
 Чтобы запустить этот прокси необходимо ввести следующую команду
 
 ```bash
-docker run -p 8012:80 obvu/proxy-rkn
+docker run -p 8012:80 zvinger/docker-proxy-rkn
 ```
 
 Вместо 8012 вы можете указать любой удобный вам порт. Тогда в коде вашего приложения вместо
